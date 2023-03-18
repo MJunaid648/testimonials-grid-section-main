@@ -10,7 +10,7 @@ body {
   line-height: 1.7;
   font-size: 13px;
 }
-.testimonials {
+main {
   max-width: 1440px;
   padding: 20px;
   margin-bottom: 10px;
@@ -88,7 +88,7 @@ footer {
   padding-bottom: 15px;
 }
 @media (max-width: 768px) {
-  .testimonials {
+  main {
     grid-template-columns: 1fr;
     width: 100%;
   }
